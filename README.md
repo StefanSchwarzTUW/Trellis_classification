@@ -1,5 +1,5 @@
 # Trellis_classification
-Trellis classification of points on complex-values Grassmann manifolds
+Trellis classification of points on complex-valued Grassmann manifolds
 
 This code can be used to reproduce results of 
 
